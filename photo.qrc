@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/new/prefix2">
+        <file>Nouveau dossier (4)/72837379_567742703968780_3116366177635401728_n.jpg</file>
+    </qresource>
+</RCC>
