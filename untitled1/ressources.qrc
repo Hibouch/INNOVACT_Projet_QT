@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ressources/afficher.jpg</file>
+        <file>ressources/afficherT.png</file>
+        <file>ressources/ajouter.png</file>
+        <file>ressources/ajouterT.png</file>
+        <file>ressources/modifier.jpg</file>
+        <file>ressources/modifierT.png</file>
+        <file>ressources/recherche.jpg</file>
+        <file>ressources/supprimer.png</file>
+        <file>ressources/supprimerT.png</file>
+        <file>ressources/tri.png</file>
+        <file>ressources/triT.png</file>
+        <file>ressources/pic2.jpg</file>
+    </qresource>
+</RCC>
